@@ -1,0 +1,21 @@
+car_name,model,variant,selling_price,km_driven,fuel,seller_type,transmission,owner,year_old
+Renault,KWID,1.0 RXT Optional,350000,10000,Petrol,Individual,Manual,First Owner,3
+Mahindra,Scorpio,S10 7 Seater,800000,90000,Diesel,Individual,Manual,First Owner,6
+Maruti,Zen,VXI,120000,77000,Petrol,Individual,Manual,Second Owner,14
+Hyundai,Accent,CRDi,85000,100000,Diesel,Individual,Manual,Third Owner,18
+Hyundai,Verna,1.6 VTVT SX,760000,55340,Petrol,Trustmark Dealer,Manual,First Owner,5
+Chevrolet,Spark,1.0 LS,70000,60000,Petrol,Individual,Manual,Third Owner,11
+Maruti,Swift,VDI,225000,296823,Diesel,Individual,Manual,First Owner,8
+Maruti,Wagon,R VXI BS IV,210000,70000,Petrol,Individual,Manual,Third Owner,6
+Maruti,Wagon,R VXI,130000,46000,Petrol,Individual,Manual,First Owner,16
+Hyundai,Accent,GLX,120000,110000,Petrol,Individual,Manual,Second Owner,14
+Hyundai,Verna,1.6 CRDI SX Option,1200000,40000,Diesel,Individual,Manual,First Owner,3
+Tata,Tigor,1.2 Revotron XT,459999,40000,Petrol,Individual,Manual,First Owner,2
+Ford,EcoSport,1.5 Diesel Titanium Plus BSIV,840000,49213,Diesel,Dealer,Manual,First Owner,3
+Audi,A4,35 TDI Premium Plus,3256000,17000,Diesel,Dealer,Automatic,First Owner,1
+Maruti,Zen,LX,85000,80000,Petrol,Individual,Manual,Second Owner,20
+Ford,Fiesta,Diesel Style,380000,83000,Diesel,Dealer,Manual,First Owner,7
+Maruti,Alto,K10 VXI Airbag,380000,25000,Petrol,Individual,Manual,First Owner,2
+Volkswagen,Vento,Diesel Highline,260000,150000,Diesel,Individual,Manual,First Owner,9
+Maruti,Celerio,ZDi,350000,120000,Diesel,Individual,Manual,First Owner,5
+Maruti,800,Std BSII,90000,40000,Petrol,Individual,Manual,Second Owner,14
